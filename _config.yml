@@ -6,6 +6,16 @@ description: "Your site description"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://maercaestro.github.io" # the base hostname & protocol for your site
 
+# About Me
+about_me:
+  name: "Abu Huzaifah Bidin"
+  profession: "Process Engineer"
+  passion: "Data and Artificial Intelligence"
+  vision: "Building MEGAT, an AI assistant for process engineers"
+  github: "https://github.com/maercaestro"
+  kaggle: "https://www.kaggle.com/abuhuzaifahbidin"
+  linkedin: "https://www.linkedin.com/in/abu-huzaifah-bidin-71391068"
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
@@ -16,3 +26,4 @@ exclude:
   - Gemfile.lock
 plugins:
   - jekyll-feed
+
