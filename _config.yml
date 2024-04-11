@@ -1,0 +1,18 @@
+# _config.yml
+
+# Site settings
+title: "MEGAT's AI Hub"
+description: "Your site description"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://maercaestro.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+plugins:
+  - jekyll-feed
