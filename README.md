@@ -17,6 +17,8 @@ MEGAT is my comprehensive AI solution, designed to streamline and enhance my dai
 
 MEGAT was initially crafted to serve as a reliable assistant, aiding me in generating monthly, weekly, and daily reports efficiently. It also supports console operators in my units by providing them with timely instructions and pre-defined protocols, ultimately minimizing time-consuming tasks and optimizing productivity.
 
+![MEGAT](asset/MEGATLogo.png)
+
 Over time, MEGAT has proven its effectiveness in simplifying complex workflows and enhancing operational efficiency. Its versatility and adaptability make it an indispensable asset in my professional toolkit, continually evolving to meet the dynamic demands of my role as an operations engineer.
 
 I intend to expand MEGAT further by making it a fully realized generative AI. This GitHub Pages will serve as documentation on my journey to make MEGAT a fully realized Large Language Model (LLM). Additionally, I aim to equip MEGAT with the capability to process engineering data and serve as a viable alternative to first principle simulations like Hysys/Petrosim. This aligns with the proposed master's title, "Transformer-Based Approach for Modeling Base Oil Plant." Meanwhile, I also intend to develop incremental engineering solutions such as a PID extractor, RAG chatbot, and Peng Robinson calculator. Feel free to reach out to me if you have any ideas regarding the type of engineering solutions you would like to see.
