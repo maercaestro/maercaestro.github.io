@@ -1,15 +1,12 @@
-# Megat's AI Hub
+# MEGAT's AI Hub
 
-[About Me](#about) | [MEGAT Engineering Repositories](#repos) | [MEGAT Streamlit Apps](#streamlit)
-
-{% assign about_me = site.about_me %}
 
 ## About Me
-![{{ about_me.name }}](asset/Abukacak.png)
+![Megat](asset/Abukacak.png)
 
-Hi, my name is {{ about_me.name }}. I'm a {{ about_me.profession }} with a passion for {{ about_me.passion }}. I'm currently working on building MEGAT, my AI assistance from scratch, envisioned to help me in day-to-day tasks as a process engineer. I hope that MEGAT soon can assist other process engineers out there.
+Hi, my name is Abu Huzaifah Bidin. I'm a process engineer with a passion for data and artificial intelligence. I'm currently working on building MEGAT, my AI assistance from scratch, envisioned to help me in day-to-day tasks as a process engineer. I hope that MEGAT soon can assist other process engineers out there.
 
-[GitHub]({{ about_me.github }}) | [Kaggle]({{ about_me.kaggle }}) | [LinkedIn]({{ about_me.linkedin }})
+[GitHub](https://github.com/maercaestro) | [Kaggle](https://www.kaggle.com/abuhuzaifahbidin) | [LinkedIn](https://www.linkedin.com/in/abu-huzaifah-bidin-71391068)
 
 ## What is MEGAT?
 ![MEGAT](asset/MEGATLogo.png)
