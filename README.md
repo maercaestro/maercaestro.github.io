@@ -22,7 +22,7 @@ Over time, MEGAT has proven its effectiveness in simplifying complex workflows a
 I intend to expand MEGAT further by making it a fully realized generative AI. This GitHub Pages will serve as documentation on my journey to make MEGAT a fully realized Large Language Model (LLM). Additionally, I aim to equip MEGAT with the capability to process engineering data and serve as a viable alternative to first principle simulations like Hysys/Petrosim. This aligns with the proposed master's title, "Transformer-Based Approach for Modeling Base Oil Plant." Meanwhile, I also intend to develop incremental engineering solutions such as a PID extractor, RAG chatbot, and Peng Robinson calculator. Feel free to reach out to me if you have any ideas regarding the type of engineering solutions you would like to see.
 
 ## MEGAT AI Journey
-- [Part 1, Pipeline](https://megat-astmconverter.streamlit.app/)
+- [Part 1, Pipeline](https://maercaestro.github.io/tokenizer-tutorial/)
 - [Part 2, Tokenization](https://megatpengrobinson.streamlit.app/)
 
 ## MEGAT Engineering Repositories
