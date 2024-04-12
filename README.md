@@ -17,7 +17,7 @@ MEGAT is my comprehensive AI solution, designed to streamline and enhance my dai
 
 MEGAT was initially crafted to serve as a reliable assistant, aiding me in generating monthly, weekly, and daily reports efficiently. It also supports console operators in my units by providing them with timely instructions and pre-defined protocols, ultimately minimizing time-consuming tasks and optimizing productivity.
 
-![MEGAT](asset/MEGATLogo.png)
+![MEGAT Framework](asset/image.png)
 
 Over time, MEGAT has proven its effectiveness in simplifying complex workflows and enhancing operational efficiency. Its versatility and adaptability make it an indispensable asset in my professional toolkit, continually evolving to meet the dynamic demands of my role as an operations engineer.
 
