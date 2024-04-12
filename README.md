@@ -2,7 +2,9 @@
 
 
 ## About Me
-![Megat](asset/Abukacak.png)
+
+<img src="asset/Abukacak.png" alt="Megat" width="200">
+
 
 Hi, my name is Abu Huzaifah Bidin. I'm a process engineer with a passion for data and artificial intelligence. I'm currently working on building MEGAT, my AI assistance from scratch, envisioned to help me in day-to-day tasks as a process engineer. I hope that MEGAT soon can assist other process engineers out there.
 
