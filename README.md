@@ -26,6 +26,7 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 ## MEGAT's AI Journery
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 1)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-1-46d6acf201e8)
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 2)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-2-a41554905d37)
+- [Siri Belajar AI: Buat RAG dari Kosong (Bahagian Akhir)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-akhir-0cb63bffee64)
 
 ## MEGAT Engineering Repositories
 - [MEGAT P&ID Extractor](https://github.com/maercaestro/pidextractor)
