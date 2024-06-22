@@ -32,6 +32,7 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 - [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
 
 ## MEGAT Engineering Repositories
+- [MEGAT AI Math Notes](https://github.com/maercaestro/megat-ai-notes)
 - [MEGAT P&ID Extractor](https://github.com/maercaestro/pidextractor)
 - [MEGAT ASTM to TBP Converter](https://github.com/maercaestro/astmconverter)
 - [MEGAT Viscosity Calculator](https://github.com/maercaestro/megat-viscosity)
