@@ -27,11 +27,14 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 1)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-1-46d6acf201e8)
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 2)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-2-a41554905d37)
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian Akhir)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-akhir-0cb63bffee64)
+- [Siri Belajar AI: Apa itu Tokenization](https://medium.com/@maercaestro/siri-belajar-ai-apa-itu-tokenization-6e11104d8801)
+- [Siri Belajar AI: Mari buat Jaringan Neural dari Kosong](https://medium.com/@maercaestro/siri-belajar-ai-mari-buat-jaringan-neural-dari-kosong-b525ba11171c)
+- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
 
 ## MEGAT Engineering Repositories
 - [MEGAT P&ID Extractor](https://github.com/maercaestro/pidextractor)
 - [MEGAT ASTM to TBP Converter](https://github.com/maercaestro/astmconverter)
-- [Refutas Equation Library](https://github.com/maercaestro/RefutasLibrary)
+- [MEGAT Viscosity Calculator](https://github.com/maercaestro/megat-viscosity)
 - [MEGAT Peng Robinson Calculator](https://github.com/maercaestro/megatpengrobinson)
 - [MEGAT Tokenizer](https://github.com/maercaestro/megat-tokenizer)
 
@@ -39,3 +42,4 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 - [MEGAT ASTM Converter](https://megat-astmconverter.streamlit.app/)
 - [MEGAT Peng Robinson Calculator](https://megatpengrobinson.streamlit.app/)
 - [MEGAT P&ID Extractor](https://megat-pidextractor.streamlit.app/)
+
