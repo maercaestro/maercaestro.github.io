@@ -1,4 +1,4 @@
-# MEGAT's AI Hub
+# Abu Huzaifah Bidin Page
 
 
 ## About Me
@@ -11,19 +11,39 @@ Hi, my name is Abu Huzaifah Bidin. I'm a process engineer with a passion for dat
 [GitHub](https://github.com/maercaestro) | [Kaggle](https://www.kaggle.com/abuhuzaifahbidin) | [LinkedIn](https://www.linkedin.com/in/abu-huzaifah-bidin-71391068)
 
 ## What is MEGAT?
-![MEGAT](asset/MEGATLogo.png)
+![Uploading logomegat.png…](https://github.com/maercaestro/megat-transformer/blob/6a6f0b6cd569010680e9252ae632f20d6421844f/logomegat.png)
 
 MEGAT is my comprehensive AI solution, designed to streamline and enhance my daily tasks as an operations engineer. Originally conceived as a solution to simplify and automate various processes, I began its development journey by leveraging tools like Microsoft Power Automate, along with basic JSON scripting and my foundational programming knowledge.
 
 MEGAT was initially crafted to serve as a reliable assistant, aiding me in generating monthly, weekly, and daily reports efficiently. It also supports console operators in my units by providing them with timely instructions and pre-defined protocols, ultimately minimizing time-consuming tasks and optimizing productivity.
 
-![MEGAT Framework](asset/image.png)
-
 Over time, MEGAT has proven its effectiveness in simplifying complex workflows and enhancing operational efficiency. Its versatility and adaptability make it an indispensable asset in my professional toolkit, continually evolving to meet the dynamic demands of my role as an operations engineer.
 
-I intend to expand MEGAT further by making it a fully realized generative AI. This GitHub Pages will serve as documentation on my journey to make MEGAT a fully realized Large Language Model (LLM). Additionally, I aim to equip MEGAT with the capability to process engineering data and serve as a viable alternative to first principle simulations like Hysys/Petrosim. This aligns with the proposed master's title, "Transformer-Based Approach for Modeling Base Oil Plant." Meanwhile, I also intend to develop incremental engineering solutions such as a PID extractor, RAG chatbot, and Peng Robinson calculator. Feel free to reach out to me if you have any ideas regarding the type of engineering solutions you would like to see.
+I intend to expand MEGAT further by making it a fully realized generative AI. This GitHub Pages will serve as documentation on my journey to make MEGAT a fully realized Large Language Model (LLM). 
 
-## MEGAT's AI Journery
+## My AI Journey
+**1.Transformer from Scratch**
+- [Transformer from Scratch - my first attemt in building transformer](https://github.com/maercaestro/transformer-scratch)
+  This repository shows my first attempt in building transformer from scratch. I did not manage to fully replicate with my training runs
+- [Megat-Transformer - My second attempt](https://github.com/maercaestro/megat-transformer)
+  This repository is my second attempt of building transformer from scratch. I was able to replicate the original transformer paper published in 2017.
+  I used Malay translation dataset provided by Mesolitica. With only 30,000 rows of dataset, I was able to achieve BLEU score of 10.37.
+
+
+**2. AI Applications**
+- [Sentiment Fuel Dashboard](https://github.com/maercaestro/sentiment-fuel)
+  This repository holds my code that I used to build a petrol station dashboard complete with Google Review sentiment analysis. Furthermore I feed the Google Review
+  to GPT 3.5 to generate viable business recommendations.
+- [Megat-Analyst](https://github.com/maercaestro/megat-analyst)
+  This repository is my first attempt in building agentic-AI application using CrewAI. It was able to analyze crude oil price and trending and made analysis based
+  on news data that I have pulled. This repo also allows automated email of the crude oil price analysis and send it directly to users. At the same time, I also used
+  MongoPy database to hold all the data instead of continously running the API.
+- [Megat-AI Math Notes](https://github.com/maercaestro/megat-ai-notes)
+  This repository is replication of Apple's AI Math Notes using GPT-4o API.
+  
+
+
+## My Articles on AI : Siri Belajar AI
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 1)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-1-46d6acf201e8)
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian 2)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-2-a41554905d37)
 - [Siri Belajar AI: Buat RAG dari Kosong (Bahagian Akhir)](https://medium.com/@maercaestro/siri-belajar-ai-buat-rag-dari-kosong-bahagian-akhir-0cb63bffee64)
@@ -31,11 +51,14 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 - [Siri Belajar AI: Mari buat Jaringan Neural dari Kosong](https://medium.com/@maercaestro/siri-belajar-ai-mari-buat-jaringan-neural-dari-kosong-b525ba11171c)
 - [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
 - [Siri Belajar AI : Mekanisma Perhatian](https://medium.com/@maercaestro/siri-belajar-ai-mekanisma-perhatian-cd71853ec325)
-- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
-- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
-- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
+- [Siri Belajar AI: Jaringan Neural Berlingkar (Convolutional Neural Network), Bahagian 1](https://medium.com/@maercaestro/siri-belajar-ai-jaringan-neural-berlingkar-convoluted-neural-network-bahagian-1-ef517726609f)
+- [Siri Belajar AI: Jaringan Neural Berlingkar (Convolutional Neural Network) Bahagian 2](https://medium.com/@maercaestro/siri-belajar-ai-jaringan-neural-berlingkar-convolutional-neural-network-bahagian-2-f19956754288)
+- [Siri Belajar AI: Mari Buat Generator Nama Arab (asas model bahasa)](https://medium.com/@maercaestro/siri-belajar-ai-mari-buat-generator-nama-arab-asas-model-bahasa-90bbb6b32ce3)
+- [Siri Belajar AI: Mari Belajar tentang Penanaman Vektor (Vector Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-vektor-vector-embedding-2e06230c01c9)
+- [Siri Belajar AI : Mari Kita Kenal Jaringan Neural Berturut (Recurrent NeuraL Network) Bahagian 1](https://medium.com/@maercaestro/siri-belajar-ai-mari-kita-kenal-jaringan-neural-berturut-recurrent-neural-network-bahagian-1-2efd3d3aaafe)
+- [Siri Belajar AI : Mari Kita Kenal Jaringan Neural Berturut (Recurrent Neural Network) Bahagian 2](https://medium.com/@maercaestro/siri-belajar-ai-mari-kita-kenal-jaringan-neural-berturut-recurrent-neural-network-bahagian-2-335ffd05efbe)
 
-## MEGAT Engineering Repositories
+## My Engineering Repositories
 - [MEGAT AI Math Notes](https://github.com/maercaestro/megat-ai-notes)
 - [MEGAT P&ID Extractor](https://github.com/maercaestro/pidextractor)
 - [MEGAT ASTM to TBP Converter](https://github.com/maercaestro/astmconverter)
