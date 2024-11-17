@@ -22,7 +22,7 @@ Over time, MEGAT has proven its effectiveness in simplifying complex workflows a
 I intend to expand MEGAT further by making it a fully realized generative AI. This GitHub Pages will serve as documentation on my journey to make MEGAT a fully realized Large Language Model (LLM). 
 
 ## My AI Journey
-**1.Transformer from Scratch**
+**1. Transformer from Scratch**
 - [Transformer from Scratch - my first attemt in building transformer](https://github.com/maercaestro/transformer-scratch)
   This repository shows my first attempt in building transformer from scratch. I did not manage to fully replicate with my training runs
 - [Megat-Transformer - My second attempt](https://github.com/maercaestro/megat-transformer)
