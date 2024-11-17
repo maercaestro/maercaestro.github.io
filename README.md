@@ -30,6 +30,10 @@ I intend to expand MEGAT further by making it a fully realized generative AI. Th
 - [Siri Belajar AI: Apa itu Tokenization](https://medium.com/@maercaestro/siri-belajar-ai-apa-itu-tokenization-6e11104d8801)
 - [Siri Belajar AI: Mari buat Jaringan Neural dari Kosong](https://medium.com/@maercaestro/siri-belajar-ai-mari-buat-jaringan-neural-dari-kosong-b525ba11171c)
 - [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
+- [Siri Belajar AI : Mekanisma Perhatian](https://medium.com/@maercaestro/siri-belajar-ai-mekanisma-perhatian-cd71853ec325)
+- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
+- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
+- [Siri Belajar AI : Mari Belajar tentang Penanaman Posisi (Positional Embedding)](https://medium.com/@maercaestro/siri-belajar-ai-mari-belajar-tentang-penanaman-posisi-positional-embedding-94ad4cdd7cc2)
 
 ## MEGAT Engineering Repositories
 - [MEGAT AI Math Notes](https://github.com/maercaestro/megat-ai-notes)
