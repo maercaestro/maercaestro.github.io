@@ -11,7 +11,7 @@ Hi, my name is Abu Huzaifah Bidin. I'm a process engineer with a passion for dat
 [GitHub](https://github.com/maercaestro) | [Kaggle](https://www.kaggle.com/abuhuzaifahbidin) | [LinkedIn](https://www.linkedin.com/in/abu-huzaifah-bidin-71391068)
 
 ## What is MEGAT?
-![Uploading logomegat.png…](https://github.com/maercaestro/maercaestro.github.io/blob/e0433f09766177088d34607ef129c0c9dd1535b3/asset/logomegat.png))
+![Uploading logomegat.png…](https://github.com/maercaestro/maercaestro.github.io/blob/e0433f09766177088d34607ef129c0c9dd1535b3/asset/logomegat.png)
 
 
 MEGAT is my comprehensive AI solution, designed to streamline and enhance my daily tasks as an operations engineer. Originally conceived as a solution to simplify and automate various processes, I began its development journey by leveraging tools like Microsoft Power Automate, along with basic JSON scripting and my foundational programming knowledge.
